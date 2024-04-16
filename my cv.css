@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    margin-top: 28px;
+}
+p{
+    font-weight: 28px;
+    text-align: center;
+    font-size: 24px;
+}
+span{
+    text-decoration:black;
+    font-weight: bold;
+}
+h2{
+    text-underline-position: below;
+    font-weight: bolder;
+}
+li{
+    margin-left: 60px;
+    justify-content: baseline;
+    font-size: 20px;
+    font-weight: 25px;
+}
